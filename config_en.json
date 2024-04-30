@@ -1,0 +1,308 @@
+{
+  "HorizonLayout": [
+    {
+      "showLogo": false,
+      "layout": "logo",
+      "showSearch": true,
+      "showMenu": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 2.0,
+      "radius": 50.0,
+      "items": [
+        {
+          "category": 361,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/saleicon.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true,
+          "title": "Sales Items",
+          "keepDefaultTitle": true
+        },
+
+        {
+          "category": 362,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/new-arrivals.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true,
+          "title": "New Arrivals",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 349,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/bangle.jpeg",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true,
+          "title": "Bangles",
+          "keepDefaultTitle": true
+        },
+
+        {
+          "category": 354,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/chokar.jpeg",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true,
+          "title": "Chokar Sets",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 359,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/clutchbags.jpeg",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ],
+          "originalColor": true,
+          "title": "Clutch Bags",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 347,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/earrings.jpeg",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ],
+          "originalColor": true,
+          "title": "Earrings",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 351,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/jhoomer.jpeg",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true,
+          "title": "Jhoomers",
+          "keepDefaultTitle": true
+        },
+
+        {
+          "category": 350,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/kara.jpeg",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true,
+          "title": "Karra's",
+          "keepDefaultTitle": true
+        },
+
+        {
+          "category": 356,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/mala.jpeg",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true,
+          "title": "Mala Sets",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 357,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/necklace-1.jpeg",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true,
+          "title": "Necklace Sets",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 348,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/ring.jpeg",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true,
+          "title": "Rings",
+          "keepDefaultTitle": true
+        },
+        {
+          "category": 360,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/tops.jpeg",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true,
+          "title": "Tops",
+          "keepDefaultTitle": true
+        }
+
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 10.0,
+      "marginBottom": 10.0,
+      "paddingX": 0.0,
+      "paddingY": 0.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "hideTitle": false
+    },
+    {
+      "autoPlay": false,
+      "showBackGround": true,
+      "layout": "bannerImage",
+      "radius": 2,
+      "showNumber": false,
+      "items": [
+        {
+          "image": "https://nailajdesigns.com/wp-content/uploads/2022/01/slide1.jpg",
+          "padding": 15
+        },
+        {
+          "image": "https://nailajdesigns.com/wp-content/uploads/2022/01/slider7.jpg",
+          "padding": 15
+        },
+        {
+          "image": "https://nailajdesigns.com/wp-content/uploads/2022/01/slide5.jpg",
+          "padding": 15
+        }
+      ],
+      "design": "default",
+      "isSlider": true
+    },
+    {
+      "marginBottom": 0,
+      "items": [
+        {
+          "url": "https://nailajdesigns.com/product-category/jewelry/bridal-set",
+          "padding": 5,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/bridal_banners-scaled.jpeg"
+        }
+      ],
+      "marginLeft": 10,
+      "layout": "bannerImage",
+      "height": 0.2,
+      "marginTop": 0,
+      "isSlider": false,
+      "marginRight": 10,
+      "fit": "cover"
+    },
+    {
+      "marginBottom": 0,
+      "items": [
+        {
+          "padding": 5,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/8.jpeg"
+        },
+        {
+          "padding": 5,
+          "image": "https://nailajdesigns.com/wp-content/uploads/2024/04/necklace.jpeg"
+        }
+      ],
+      "marginLeft": 10,
+      "marginTop": 10,
+      "layout": "bannerImage",
+      "height": 0.25,
+      "marginRight": 10,
+      "isSlider": false,
+      "fit": "cover"
+    },
+    {
+      "isSnapping": true,
+      "layout": "threeColumn",
+      "name": "Recent Collections"
+    },
+
+    {
+      "name": "Items On Sale!",
+      "image": "",
+      "layout": "threeColumn",
+      "isSnapping": true,
+      "category": 361
+    }
+  ],
+  "Setting": {
+    "ProductDetail": "simpleType",
+    "StickyHeader": true,
+    "MainColor": "#7e5c2a",
+    "TabBarConfig": null,
+    "ProductListLayout": "list",
+    "FontHeader": "ABeeZee"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "key": "qcu8uzn8tr",
+      "fontFamily": "CupertinoIcons",
+      "icon": "home",
+      "pos": 100
+    },
+    {
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "layout": "category",
+      "key": "34v19lorvh",
+      "pos": 200
+    },
+    {
+      "layout": "search",
+      "key": "bzeveqyd4f",
+      "pos": 300,
+      "size": 24,
+      "icon": "search",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "fontFamily": "CupertinoIcons",
+      "icon": "bag",
+      "layout": "cart",
+      "key": "iezdtuebvw",
+      "categoryLayout": "cart",
+      "pos": 400
+    },
+    {
+      "icon": "person",
+      "fontFamily": "CupertinoIcons",
+      "layout": "profile",
+      "key": "ahtf5zk2sz",
+      "pos": 500
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "show": true,
+        "type": "category"
+      }
+    ],
+    "logo": "https://nailajdesigns.com/wp-content/uploads/2022/01/logo4.png"
+  }
+}
